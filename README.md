@@ -313,60 +313,6 @@ Mama Africa,</p>
                               </div>
                            </div>
                         </div>
-                        <div class="carousel-item">
-                           <div class="container">
-                              <div class="carousel-caption">
-                                 <div class="row">
-                                    <div class="col-md-12">
-                                       <div class="test_box">
-                                          <i><img src="images/tes1.png" alt="#"/></i>
-                                          <h4>DJ Mellow </h4>
-                                          <p>DJMellowSA a SouthAfrican upcoming crowedpuller discjockey who plays the peoples favorites music,Music producer.Was born as Nyameko Mellokuhle Mzazi in the province of Eastern Cape.Started music at the age of 15years after participated in Church programs likes ketches And music programs.On 2011 they formed agroup with the cousins Siyamthanda Diko who is known by CiarDiko and Luyanda Mpiyakhe.They released their first album of hip hop music and it went well since it was their debut album. After that they separated due to education institutions and DJMellow bridged from being a rapper to becomeadj.Started from Virtual dj and learnt some other djgears on the way,it was 2017 when he was doing his first appearance as a dj at the local lounge at Mount Ayliff known
-as Liquid Lounge.Djying wasn’t that easy to dj Mellow but he was getting better
-andbetterbytimestartedtoberecognizedtootherlocalbarsatMountAyli~
-with the help of Bhekizulu Nkosivumile.Nkosivumile is well-known as
-Bheksta thee dj and he is the radio personality at one of the top local radios
-They went to places playing together doing back to back
-challenges on sets,DJMellow played at Ruf-top lounge in Maluti Star at Matatiele
-andEyethuLounge.InMountAyli~Hehasbeenvisiblyonthefollowing
-places including Mount Frere,KwaCwakaTavern,Zukile`stavern
-KwaMenyo`sPub,BoysTo Men and LiquidLounge.
-In Mount Frere he played at Underground pub and Home of Legends.
-Kokstad he played at Zethembe Pub and Grill and Down Town lifestyle and
-Mama Africa,</p>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="carousel-item">
-                           <div class="container">
-                              <div class="carousel-caption">
-                                 <div class="row">
-                                    <div class="col-md-12">
-                                       <div class="test_box">
-                                          <i><img src="images/tes1.png" alt="#"/></i>
-                                            <h4>DJ Mellow </h4>
-                                          <p>DJMellowSA a SouthAfrican upcoming crowedpuller discjockey who plays the peoples favorites music,Music producer.Was born as Nyameko Mellokuhle Mzazi in the province of Eastern Cape.Started music at the age of 15years after participated in Church programs likes ketches And music programs.On 2011 they formed agroup with the cousins Siyamthanda Diko who is known by CiarDiko and Luyanda Mpiyakhe.They released their first album of hip hop music and it went well since it was their debut album. After that they separated due to education institutions and DJMellow bridged from being a rapper to becomeadj.Started from Virtual dj and learnt some other djgears on the way,it was 2017 when he was doing his first appearance as a dj at the local lounge at Mount Ayliff known
-as Liquid Lounge.Djying wasn’t that easy to dj Mellow but he was getting better
-andbetterbytimestartedtoberecognizedtootherlocalbarsatMountAyli~
-with the help of Bhekizulu Nkosivumile.Nkosivumile is well-known as
-Bheksta thee dj and he is the radio personality at one of the top local radios
-They went to places playing together doing back to back
-challenges on sets,DJMellow played at Ruf-top lounge in Maluti Star at Matatiele
-andEyethuLounge.InMountAyli~Hehasbeenvisiblyonthefollowing
-places including Mount Frere,KwaCwakaTavern,Zukile`stavern
-KwaMenyo`sPub,BoysTo Men and LiquidLounge.
-In Mount Frere he played at Underground pub and Home of Legends.
-Kokstad he played at Zethembe Pub and Grill and Down Town lifestyle and
-Mama Africa,</p>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
                      </div>
                      <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
